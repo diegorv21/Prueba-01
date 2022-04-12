@@ -3,7 +3,7 @@
     --primary: #368ed6;
     --secondary: #FFD33C;
     --light: #F3F3F3;
-    --dark: #212121;
+    --dark: #0093d6;
 }
 
 [class^=flaticon-]:before,
@@ -227,7 +227,7 @@
     top: 50%;
     left: 10px;
     margin-top: -1px;
-    background: var(--primary);
+    background: #0093d6;
     transition: .3s;
 }
 
@@ -277,7 +277,7 @@
 
 .product-carousel .owl-nav .owl-prev:hover,
 .product-carousel .owl-nav .owl-next:hover {
-    color: var(--dark);
+    color: #0093d6;
 }
 
 .bg-offer {
@@ -314,7 +314,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: var(--primary);
+    color: #0093d6;
     background: #FFFFFF;
     font-size: 22px;
     border-radius: 45px;
@@ -323,7 +323,7 @@
 
 .price-carousel .owl-nav .owl-prev:hover,
 .price-carousel .owl-nav .owl-next:hover {
-    color: var(--dark);
+    color: #0093d6;
 }
 
 .team-carousel .owl-nav {
@@ -372,7 +372,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(122, 183, 48, .8);
+    background: #0093d6(122, 183, 48, .8);
     transition: .5s;
     opacity: 0;
 }
@@ -417,7 +417,7 @@
 
 .testimonial-carousel .owl-nav .owl-prev:hover,
 .testimonial-carousel .owl-nav .owl-next:hover {
-    color: var(--dark);
+    color: #0093d6;
 }
 
 .testimonial-carousel .owl-item img {
@@ -449,7 +449,7 @@
     top: 50%;
     left: 10px;
     margin-top: -1px;
-    background: var(--primary);
+    background: #0093d6;
     transition: .3s;
 }
 
